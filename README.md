@@ -51,7 +51,7 @@ git clone https://github.com/ShyamChavda005/smart-file-organizer.git
 cd smart_file_organizer
 
 # Step 3: Run the script
-python cleanFiles.py
+python CleanFiles.py
 
 ```
 
