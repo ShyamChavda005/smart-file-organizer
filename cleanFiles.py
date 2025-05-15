@@ -1,3 +1,5 @@
+# Smart-File-Organizer Project using python inbuilt library
+
 import os
 import shutil
 
